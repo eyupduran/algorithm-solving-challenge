@@ -14,4 +14,6 @@ Hello, it is the repository of algorithms that I solve daily on the hackerrank s
 |[Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true)|[DiagonalDifference.java](https://github.com/eyupduran/algorithm-solving-challenge/blob/master/DiagonalDifference.java)|
 |[Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)|[GradingStudents.java](https://github.com/eyupduran/algorithm-solving-challenge/blob/master/GradingStudents.java)|
 |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)|[MiniMaxSum.java](https://github.com/eyupduran/algorithm-solving-challenge/blob/master/MiniMaxSum.java)|
+|[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)|[CatsAndAMouse.js](https://github.com/eyupduran/algorithm-solving-challenge/blob/master/CatsAndAMouse.js)|
+
 
