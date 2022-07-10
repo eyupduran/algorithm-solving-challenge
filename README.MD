@@ -15,5 +15,5 @@ Hello, it is the repository of algorithms that I solve daily on the hackerrank s
 |[Grading Students](https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true)|[GradingStudents.java](https://github.com/eyupduran/algorithm-solving-challenge/blob/master/GradingStudents.java)|
 |[Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem?isFullScreen=true)|[MiniMaxSum.java](https://github.com/eyupduran/algorithm-solving-challenge/blob/master/MiniMaxSum.java)|
 |[Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse/problem?isFullScreen=true)|[CatsAndAMouse.js](https://github.com/eyupduran/algorithm-solving-challenge/blob/master/CatsAndAMouse.js)|
-
+|[The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race/problem?isFullScreen=true)|[HurdleRace.js](https://github.com/eyupduran/algorithm-solving-challenge/blob/master/HurdleRace.js)|
 
