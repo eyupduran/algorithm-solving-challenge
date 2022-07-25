@@ -19,4 +19,4 @@ Hello, it is the repository of algorithms that I solve daily on the hackerrank s
 |[Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree/problem?isFullScreen=true)|[UtopianTree.js](https://github.com/eyupduran/algorithm-solving-challenge/blob/master/UtopianTree.js)|
 |[Angry Professor](https://www.hackerrank.com/challenges/angry-professor/problem?isFullScreen=true)|[AngryProfessor.js](https://github.com/eyupduran/algorithm-solving-challenge/blob/master/AngryProfessor.js)|
 |[Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/problem?isFullScreen=true)|[BeautifulDays.js](https://github.com/eyupduran/algorithm-solving-challenge/blob/master/BeautifulDays.js)|
-
+|[Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising/problem?isFullScreen=true)|[ViralAdvertising.js](https://github.com/eyupduran/algorithm-solving-challenge/blob/master/ViralAdvertising.js)|
