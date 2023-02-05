@@ -1,6 +1,6 @@
- ## ***Daily Algorithms Solving Challenge*** :triangular_flag_on_post:
+ ## ***Algorithms Solving Challenge*** :triangular_flag_on_post:
  
-Hello, it is the repository of algorithms that I solve daily on the hackerrank site. 
+Hello, it is the repository of algorithms that I solve on the hackerrank.
 
 ### Let's Solving :facepunch:
  ---
